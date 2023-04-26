@@ -1,3 +1,7 @@
 This is requirement txt file.
 New changes has been made here.
 this is modifief version of the file
+
+payment added
+send money
+received money
